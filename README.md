@@ -2,6 +2,7 @@ Simple scirpt for nicotine pouches
 
 
 📺 PREVIEW: https://streamable.com/nhuipc 📺
+
 🌴DISCORD: https://discord.gg/zZ6zqUgsZA🌴
 
 🌹DEPENDENCIES: ox_lib and es_extended🌹
